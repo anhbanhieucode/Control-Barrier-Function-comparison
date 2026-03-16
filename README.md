@@ -1,6 +1,6 @@
 # Control-Barrier-Function-comparison
 
-#Introduction:
+# Introduction:
 
 This repo is a list of some variation of Control Barrier Functions, including:
 1. Basic CBF
@@ -10,11 +10,15 @@ This repo is a list of some variation of Control Barrier Functions, including:
 
 # Requirements:
 matplotlib, numpy, cvxpy
-How to install
 ```
 pip install matplotlib
 pip install cvxpy
 ```
+# Installation:
+```
+git clone https://github.com/anhbanhieucode/Control-Barrier-Function-comparison
+```
+
 #How to use:
 ```
 python main_4_compare.py
